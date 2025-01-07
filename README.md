@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paribesh Panta</h1>
 <h3 align="center">a passionate software engineer and tech enthusiast.</h3>
 
-- 🎓 I'm an undergraduate student at Kathmandu University, passionate about computer science and technology. Currently pursuing a Bachelor of Science in Computer Science, I'm eager to explore the vast world of software development and beyond. 🎓 
+- 🎓 I'm a computer science graduate from Kathmandu University, passionate about computer science and technology. Having earned my Bachelor of Science in Computer Science and gained work experience in the field, I'm eager to continue exploring the vast world of software development and beyond. 🎓 
 
 - 📌 I have gained practical experience across a diverse spectrum of projects, emphasizing machine learning, web development, and mobile application development. 📌 
 
