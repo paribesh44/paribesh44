@@ -3,7 +3,7 @@
 
 - 🎓 I'm a computer science graduate from Kathmandu University, passionate about computer science and technology. Having earned my Bachelor of Science in Computer Science and gained work experience in the field, I'm eager to continue exploring the vast world of software development and beyond. 🎓 
 
-- 📌 I have gained practical experience across a diverse spectrum of projects, emphasizing machine learning, web development, and mobile application development. 📌 
+- 📌 I have gained practical experience across a diverse spectrum of projects, emphasizing machine learning and web development. 📌 
 
 - 📫 Reach me at **paribeshpanta44@gmail.com**
 
