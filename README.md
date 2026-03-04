@@ -34,8 +34,8 @@ I specialize in building high-performance backend architectures and researching 
 
 ### 📈 GitHub Presence
 
-![Paribesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=paribesh44&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paribesh44&layout=compact&theme=transparent&hide_border=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
