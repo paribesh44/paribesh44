@@ -2,7 +2,7 @@ name: Update GitHub Stats Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day at midnight
+    - ` # Runs once a year on January 1st
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
