@@ -14,14 +14,10 @@ I specialize in building high-performance backend architectures and researching 
 
 ---
 
-### 🛠️ Technical Toolbox
-
-| Focus Area | Technologies |
-| :--- | :--- |
-| **Backend** | Python (FastAPI/Flask), MongoDB, Redis, Celery, Kafka, REST APIs |
-| **AI/ML Research** | PyTorch, Transformers, Phi-4, CLIP, State Space Models (SSMs) |
-| **Agentic AI** | LangGraph, LangChain, MCP Protocol, Multi-Agent Systems |
-| **Infrastructure** | CI/CD, ONNX Runtime, TensorRT, Linux, GitHub Actions |
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/paribesh-panta-5625482a1)
+- 📧 [paribeshpanta44@gmail.com](mailto:paribeshpanta44@gmail.com)
+- 📍 Kathmandu, Nepal | 🇳🇵
 
 ---
 
@@ -30,9 +26,3 @@ I specialize in building high-performance backend architectures and researching 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
----
-
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/paribesh-panta-5625482a1)
-- 📧 [paribeshpanta44@gmail.com](mailto:paribeshpanta44@gmail.com)
-- 📍 Kathmandu, Nepal | 🇳🇵
