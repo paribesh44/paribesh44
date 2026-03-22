@@ -25,13 +25,6 @@ I specialize in building high-performance backend architectures and researching 
 
 ---
 
-### 🧠 Current Interests
-- **Multimodal Perception:** Exploring the intersection of Vision-Language Models and real-world robotics/action.
-- **Edge Intelligence:** Optimizing heavy LLM/VLM workloads for low-latency inference on edge hardware via TensorRT.
-- **Autonomous Agents:** Designing self-correcting agentic workflows for research and automation.
-
----
-
 ### 📈 GitHub Presence
 
 ![Stats](./profile/stats.svg)
